@@ -1,4 +1,4 @@
-# a-wish-upon-stars
+# A Wish Upon Stars
 
 Objectives: _Create a wish list app with a React frontend, Node.js & Express backend, and Mongoose to communicate with a MongoDB database._
 
